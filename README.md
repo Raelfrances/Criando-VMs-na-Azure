@@ -22,7 +22,11 @@ Este laboratório tem como objetivo ensinar **como criar e configurar máquinas 
 ---
 
 🚀 Passo a Passo: Criando uma VM na Azure
-1️⃣ Acesse o portal do Azure e faça login com sua conta. 2️⃣ Navegue até "Máquinas Virtuais" no menu lateral. 3️⃣ Clique em "Criar" e selecione "Máquina Virtual". 4️⃣ Escolha as configurações:
+1️⃣ Acesse o portal do Azure e faça login com sua conta. 
+2️⃣ Navegue até "Máquinas Virtuais" no menu lateral. 
+3️⃣ Clique em "Criar" e selecione "Máquina Virtual".
+
+4️⃣ Escolha as configurações:
 
 Sistema operacional (Linux/Windows)
 
@@ -30,11 +34,15 @@ Tamanho da VM (CPU, memória)
 
 Rede e armazenamento
 
-Região do Datacenter 5️⃣ Configure acesso remoto:
+Região do Datacenter 
+
+5️⃣ Configure acesso remoto:
 
 🔐 Para Linux: habilite SSH
 
-🖥️ Para Windows: habilite RDP 6️⃣ Finalize e implemente a VM! 🎉
+🖥️ Para Windows: habilite RDP 
+
+6️⃣ Finalize e implemente a VM! 🎉
 
 
 

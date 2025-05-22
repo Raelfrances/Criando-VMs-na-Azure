@@ -36,21 +36,7 @@ Região do Datacenter 5️⃣ Configure acesso remoto:
 
 🖥️ Para Windows: habilite RDP 6️⃣ Finalize e implemente a VM! 🎉
 
-💻 Criando uma VM via CLI (Azure CLI)
-Se preferir, você pode criar uma VM pelo terminal, usando Azure CLI:
 
-bash
-az login
-az vm create \
-  --resource-group MeuGrupoAzure \
-  --name MinhaVM \
-  --image UbuntuLTS \
-  --admin-username azureuser \
-  --generate-ssh-keys
-📈 Monitoramento e Gerenciamento da VM
-Após criar a VM, gerencie seus recursos pelo Azure Monitor e Azure Security Center para garantir segurança, desempenho e escalabilidade.
-
-🔹 Monitoramento: az vm list --show-details 🔹 Parar VM: az vm stop --name MinhaVM --resource-group MeuGrupoAzure 🔹 Excluir VM: az vm delete --name MinhaVM --resource-group MeuGrupoAzure --yes
 
 🤝 Contribuições
 Se quiser aprimorar este laboratório, adicionar automações ou compartilhar melhorias, sinta-se à vontade para abrir um Pull Request! 💙
